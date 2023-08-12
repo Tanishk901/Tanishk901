@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web/App Dev and AI/ML.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about my projects..!!!
-- 📫 How to reach me: tanishk901@gmail.com | www.linkedin.com/in/tanishkmahakalkar/
+- 📫 How to reach me: tanishk901@gmail.com | https://www.linkedin.com/in/tanishkmahakalkar/ 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Writer and Poet. Motivational Speaker and a Leader. I know MERN Stack, Flutter, Python, C++ with DSA, and last but not least AIML and DL.
