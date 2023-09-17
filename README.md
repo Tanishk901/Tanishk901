@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-- 🔭 I’m currently working on to Improve This Planet Problems Through Technology.!!
+- 🔭 I’m currently working on to Improve This Planet Problems Through Technology.!
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Web/App Dev and AI/ML.
 - 🤔 I’m looking for help with Data Science.
