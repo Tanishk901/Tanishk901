@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking forward to collaborate on Web/App Dev and AI/ML.
 
-- 🤔 I’m looking for help with Data Science.
+<!-- 🤔 I’m looking for help with Data Science. -->
 <!-- 💬 Ask me about my projects..!!! -->
 - 📫 How to reach me: tanishk901@gmail.com | www.linkedin.com/in/tanishkmahakalkar/ 
 <!-- 😄 Pronouns: He/His -->
