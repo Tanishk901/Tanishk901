@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🔭 I’m currently working on to Improve This Planet Problems Through Technology.!!
-- 
+
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 
+
 - 👯 I’m looking forward to collaborate on Web/App Dev and AI/ML.
-- 
+
 - 🤔 I’m looking for help with Data Science.
 <!-- 💬 Ask me about my projects..!!! -->
 - 📫 How to reach me: tanishk901@gmail.com | www.linkedin.com/in/tanishkmahakalkar/ 
