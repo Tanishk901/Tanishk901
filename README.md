@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: tanishk901@gmail.com | www.linkedin.com/in/tanishkmahakalkar/ 
 <!-- 😄 Pronouns: He/His -->
-- ⚡ Fun fact: I am a Writer and Poet. Motivational Speaker and a Leader. I know Flutter Cross-Platform Web Development, Python, C++ with DSA, Data Analytics and last but not least AIML and DL.!!
+- ⚡ Fun fact: I am a Writer and Poet. Motivational Speaker and a Leader. I know C++, Python with DSA, Data Analytics, and last but not least AIML and DL!!
