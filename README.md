@@ -22,7 +22,7 @@ I keep production systems running by day and build tools that make learning and 
 ### Building now
 
 <p>
-  <a href="https://github.com/Tanishk901/invert">
+  <a href="https://invert-88fcb.web.app/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/invert-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/invert-light.svg">
@@ -38,7 +38,7 @@ I keep production systems running by day and build tools that make learning and 
   </a>
 </p>
 
-**INVERT** teaches data structures and algorithms by letting you step through them: Two Sum, Binary Search, Valid Parentheses, Reverse Linked List, Sliding Window and Two Pointers, each one algorithmically correct, not a fake progress bar.
+**INVERT** teaches data structures and algorithms by letting you step through them: Binary Search, Two Pointers, Sliding Window, Linked Lists, Stacks, Hashing, BFS and Heaps, each one algorithmically correct, not a fake progress bar. [Try it live](https://invert-88fcb.web.app/).
 
 **open-source-finder** reads a GitHub repo's open issues, ranks them by how small, clear and self-contained they are, and flags the ones someone is already working on. Built for anyone hunting for their first contribution.
 
