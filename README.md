@@ -63,6 +63,7 @@ I keep production systems running by day and build tools that make learning and 
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to My 2023 Version.](https://medium.com/@tanishk901/welcome-to-my-2023-version-689890fb3041?source=rss-7ea913ed9190------2)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
