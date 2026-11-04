@@ -29,18 +29,18 @@ I keep production systems running by day and build tools that make learning and 
       <img alt="INVERT: a gamified DSA app. Animated binary search finding 56 in four steps." src="./assets/invert-dark.svg" width="49%">
     </picture>
   </a>
-  <a href="https://github.com/Tanishk901/inbox-triage">
+  <a href="https://github.com/Tanishk901/open-source-finder">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/triage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/triage-light.svg">
-      <img alt="inbox-triage: emails flow from Outlook through an LLM into service request and incident lanes." src="./assets/triage-dark.svg" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/finder-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/finder-light.svg">
+      <img alt="open-source-finder: open issues get scored, a claimed one is flagged, and the best first issue rises to the top." src="./assets/finder-dark.svg" width="49%">
     </picture>
   </a>
 </p>
 
 **INVERT** teaches data structures and algorithms by letting you step through them: Two Sum, Binary Search, Valid Parentheses, Reverse Linked List, Sliding Window and Two Pointers, each one algorithmically correct, not a fake progress bar.
 
-**inbox-triage** reads a support inbox, asks an LLM whether each email is a service request or an incident, and logs the call to Excel. No ticketing-system API keys needed.
+**open-source-finder** reads a GitHub repo's open issues, ranks them by how small, clear and self-contained they are, and flags the ones someone is already working on. Built for anyone hunting for their first contribution.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
@@ -50,11 +50,7 @@ I keep production systems running by day and build tools that make learning and 
 
 ### Tools I reach for
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,react,js,flutter,blender,unity,git&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,react,js,flutter,blender,unity,git&theme=light&perline=8">
-  <img alt="Python, C++, React, JavaScript, Flutter, Blender, Unity, Git" src="https://skillicons.dev/icons?i=python,cpp,react,js,flutter,blender,unity,git&theme=dark&perline=8">
-</picture>
+<img alt="Python, C++, React, JavaScript, Flutter, Blender, Unity, Git" src="https://skillicons.dev/icons?i=python,cpp,react,js,flutter,blender,unity,git&theme=dark&perline=8">
 
 ### A year of commits, eaten daily
 
