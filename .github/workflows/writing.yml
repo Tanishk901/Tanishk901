@@ -1,0 +1,21 @@
+name: Latest writing
+
+on:
+  schedule:
+    - cron: "41 1 * * *"   # once a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull my latest Medium posts into the README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@tanishk901"
+          max_post_count: 4
+          commit_message: "Refresh latest writing"
